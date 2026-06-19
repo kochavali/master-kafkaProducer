@@ -6,7 +6,7 @@ import java.util.concurrent.*;
 @SpringBootApplication
 public class ThreadSampleExecutorsKafkaProducer {
 
-      public static void main(String[] args) throws InterruptedException {
+      public static void main(String[] args) throws InterruptedException, ExecutionException {
 
         task1 task1=new task1("Ram's task 1");
         //task1.run();
