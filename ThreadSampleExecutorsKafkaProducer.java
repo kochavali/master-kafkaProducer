@@ -36,7 +36,7 @@ public class ThreadSampleExecutorsKafkaProducer {
               public String call() throws Exception {
                 ArrayList list = new ArrayList();
                 ArrayList list1 = new ArrayList();
-                ArrayList list11 = new ArrayList();
+                ArrayList list12 = new ArrayList();
                 list.add("Ram");
                 list.add("Shyam");
                 list.add("Mohan");
