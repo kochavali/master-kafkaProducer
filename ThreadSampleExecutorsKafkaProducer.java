@@ -41,7 +41,7 @@ public class ThreadSampleExecutorsKafkaProducer {
                 list.add("Shyam");
                 list.add("Mohan");
                 list.add("Sohan");
-                list.add("Ram");
+                list.add("Rama");
                 Set<String> set = new HashSet<>();
                 Set<String> duplicates = new HashSet<>();
                /* for (String name : list) {
