@@ -1,0 +1,59 @@
+
+g	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¢¤¿á„4
+g	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8£¤¿á„4
+L
+java:S3740!"/Provide the parametrized type for this generic.(ª¾²8¨¤¿á„4
+L
+java:S3740!"/Provide the parametrized type for this generic.(ª¾²8©¤¿á„4
+L
+java:S3740%"/Provide the parametrized type for this generic.(Á³öÆ8©¤¿á„4
+L
+java:S3740%"/Provide the parametrized type for this generic.(Á³öÆ8ª¤¿á„4
+L
+java:S3740&"/Provide the parametrized type for this generic.(öÍãœ8ª¤¿á„4
+L
+java:S3740&"/Provide the parametrized type for this generic.(öÍãœ8ª¤¿á„4
+Q
+java:S3740'"/Provide the parametrized type for this generic.(ù‡û™úÿÿÿÿ8«¤¿á„4
+Q
+java:S3740'"/Provide the parametrized type for this generic.(ù‡û™úÿÿÿÿ8«¤¿á„4
+Q
+java:S37408"/Provide the parametrized type for this generic.(†ßöşÿÿÿÿ8«¤¿á„4
+7
+java:S1220""Move this file to a named package.8º¤¿á„4
+o
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(æíŸÉúÿÿÿÿ8±¦¿á„4
+‚
+java:S4602	"fRemove the annotation "@SpringBootApplication" or move the annotated class out of the default package.(ûª¢F8İ¦¿á„4
+W
+java:S1854":Remove this useless assignment to local variable "task11".(âÎÈ±8ï¦¿á„4
+H
+java:S1481"+Remove this unused "task11" local variable.(âÎÈ±8¢§¿á„4
+X	java:S125"<This block of commented-out lines of code should be removed.(ª×â¸8¤§¿á„4
+L	java:S106"+Replace this use of System.out by a logger.(ÑŠú¢úÿÿÿÿ8ª§¿á„4
+L	java:S106"+Replace this use of System.out by a logger.(è¹¥üÿÿÿÿ8±§¿á„4
+G	java:S106"+Replace this use of System.out by a logger.(™«á¼8´§¿á„4
+L	java:S106"+Replace this use of System.out by a logger.(à¯äùÿÿÿÿ8´§¿á„4
+<
+java:S2129"" Remove this "String" constructor(•ÚÒ#8Ã§¿á„4
+T
+java:S1854-"7Remove this useless assignment to local variable "set".(Ÿï„Ù8Å§¿á„4
+\
+java:S1854'":Remove this useless assignment to local variable "list13".(ù‡û™úÿÿÿÿ8Å§¿á„4
+V
+java:S1854&"9Remove this useless assignment to local variable "list1".(öÍãœ8Å§¿á„4
+G
+java:S1481&"*Remove this unused "list1" local variable.(öÍãœ8Ê§¿á„4
+M
+java:S1481'"+Remove this unused "list13" local variable.(ù‡û™úÿÿÿÿ8Ë§¿á„4
+E
+java:S1481-"(Remove this unused "set" local variable.(Ÿï„Ù8Ğ§¿á„4
+L	java:S1064"+Replace this use of System.out by a logger.(¢×¥şÿÿÿÿ8Ñ§¿á„4
+]	java:S125/"<This block of commented-out lines of code should be removed.(™ü·•úÿÿÿÿ8Ø§¿á„4
+f
+java:S2147="DCombine this catch with the one at line 59, which has the same body.(åşŒóùÿÿÿÿ8İ§¿á„4
+{
+java:S2142;"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8à§¿á„4
+L	java:S106:"+Replace this use of System.out by a logger.(êû¦«şÿÿÿÿ8ã§¿á„4
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ê§¿á„4

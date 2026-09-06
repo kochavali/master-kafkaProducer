@@ -6,9 +6,34 @@ import java.util.stream.Collectors;
 import java.util.concurrent.Future;
 
 public class task1 implements Runnable {
+  enum Characteristics {
+    concurrent,parallel,serial,unordered,ordered,nonblocking,blocking,terminal,intermediate,Identity_Finish
+  }
   private final String recipient;
 
   public static void main(String[] args) {
+
+    String input = "swiss";
+
+    Optional<Character> firstNonRepeating = input.chars()           // IntStream of characters
+      .mapToObj(c -> (char) c)                                // Convert IntStream to Stream<Character>
+      .collect(Collectors.groupingBy(                         // Group characters by frequency
+        Function.identity(),
+        LinkedHashMap::new,                             // Maintain original insertion order
+        Collectors.counting()
+      ))
+      .entrySet()
+      .stream()                                               // Stream the map entry set
+      .filter(entry -> entry.getValue() == 1)                 // Keep only non-repeating characters
+      .map(entry -> entry.getKey())                           // Extract the character key
+      .findFirst();                                           // Grab the very first one
+
+    // Display results safely using Optional
+    firstNonRepeating.ifPresentOrElse(
+      ch -> System.out.println("First non-repeating character: " + ch),
+      () -> System.out.println("No non-repeating character found.")
+    );
+
     Future<String> future = executor.submit(() -> {
       String s = "Hello, World!";
       return s.toUpperCase();
@@ -49,12 +74,6 @@ public class task1 implements Runnable {
     }
     System.out.println("Email sent to " + recipient);
   }*/
-
-    String sentence = "Java streams are powerful and expressive";
-    String longestWord = java.util.Arrays.stream(sentence.split(""))
-      .max(java.util.Comparator.comparingInt(String::length)).get();
-
-    //System.out.println("Longest word: " + longestWord);
 
   }
 }

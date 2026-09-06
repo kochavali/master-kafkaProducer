@@ -1,0 +1,38 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×ñöÌ8‡æì†4
+7
+java:S1220""Move this file to a named package.8‰æì†4
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‚ÚÎ8“¡çì†4
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‚ÚÎ8¬´çì†4
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‚ÚÎ8­´çì†4
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‚ÚÎ8¿Ùèì†4
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‚ÚÎ8ƒÿèì†4
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‚ÚÎ8„ÿèì†4
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‚ÚÎ8†ÿèì†4
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‚ÚÎ8‡ÿèì†4
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‚ÚÎ8‡ÿèì†4
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æ‚ÚÎ8éÃùì†4
+\
+java:S1854%":Remove this useless assignment to local variable "future".(•°‹Ğøÿÿÿÿ8Òæì†4
+\
+java:S1612":Replace this lambda with method reference 'Entry::getKey'.(­®˜‰úÿÿÿÿ8Şæì†4
+L	java:S106!"+Replace this use of System.out by a logger.(Ù‚ûÿÿÿÿ8âæì†4
+L	java:S106""+Replace this use of System.out by a logger.(ÿ­õÀøÿÿÿÿ8ãæì†4
+M
+java:S1481%"+Remove this unused "future" local variable.(•°‹Ğøÿÿÿÿ8ææì†4
+L	java:S106,"+Replace this use of System.out by a logger.(ĞÃ‹ôıÿÿÿÿ8ìæì†4
+L	java:S106/"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8ğæì†4
+G	java:S1065"+Replace this use of System.out by a logger.(­Ò†8öæì†4
+G	java:S106:"+Replace this use of System.out by a logger.(€ŒÂ«8øæì†4
+G	java:S106B"+Replace this use of System.out by a logger.(ö¢¢¥8üæì†4
+X	java:S125E"<This block of commented-out lines of code should be removed.(½‘Ñ³8ÿæì†4
